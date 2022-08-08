@@ -5,28 +5,28 @@
 :root {
 	--font:							Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
 	
-	--mentioncolor: 250, 166, 26;
-	--successcolor: 59, 165, 92;
-	--warningcolor: 250, 166, 26;
-	--dangercolor: 237, 66, 69;
-
-	--textbrightest: 255, 255, 255;
-	--textbrighter: 220, 221, 222;
-	--textbright: 185, 187, 190;
-	--textdark: 142, 146, 151;
-	--textdarker: 114, 118, 125;
-	--textdarkest: 79, 84, 92;
-
-	--backgroundaccent: 80, 84, 86;
-	--backgroundprimary: 68, 72, 80;
-	--backgroundsecondary: 57, 59, 65;
-	--backgroundsecondaryalt: 41, 43, 47;
-	--backgroundtertiary: 59, 63, 67;
-	--backgroundfloating: 42, 44, 50;
-
-	--bdfdb-green: rgb(var(--successcolor));
-	--bdfdb-yellow: rgb(var(--warningcolor));
-	--bdfdb-red: rgb(var(--dangercolor));
+	--mentioncolor: 				250,166,26;
+	--successcolor: 				59,165,92;
+	--warningcolor: 				250,166,26;
+	--dangercolor: 					237,66,69;
+	
+	--textbrightest: 				255,255,255;
+	--textbrighter: 				220,221,222;
+	--textbright: 					185,187,190;
+	--textdark: 					142,146,151;
+	--textdarker: 					114,118,125;
+	--textdarkest: 					79,84,92;
+	
+	--backgroundaccent: 			64,68,75;
+	--backgroundprimary: 			54,57,63;
+	--backgroundsecondary: 			47,49,54;
+	--backgroundsecondaryalt: 		41,43,47;
+	--backgroundtertiary: 			32,34,37;
+	--backgroundfloating: 			24,25,28;
+	
+	--bdfdb-green:					rgb(var(--successcolor));
+	--bdfdb-yellow:					rgb(var(--warningcolor));
+	--bdfdb-red:					rgb(var(--dangercolor));
 }
 
 .theme-dark, .theme-light {
