@@ -1,11 +1,6 @@
-/* modified by furore */
-
-/* devilbro's shit */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
-
-/* main stuff to modify :D */
 
 :root {
 	--font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -5056,7 +5051,7 @@ html:only-child>head+body>div#app-mount.appMount-2yBXZl>div.app-3xd6d0>div.app-2
 }
 
 html:only-child>head+body>div#app-mount.appMount-2yBXZl>div.app-3xd6d0>div.app-2CXKsg>div.layers-OrUESM.layers-1YQhyW>div.layer-86YKbF.baseLayer-W6S8cY+div.layer-86YKbF>div.standardSidebarView-E9Pc3j>div.sidebarRegion-1VBisG>div.sidebarRegionScroller-FXiQOh.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN>nav.sidebar-nqHbhN>div.side-2ur1Qk>div.info-1sUqUG::after {
-	content: "Durple by" !important;
+	content: "DiscordRecolor by" !important;
 	font-size: 12px !important;
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
@@ -5076,7 +5071,7 @@ html:only-child>head+body>div#app-mount.appMount-2yBXZl>div.app-3xd6d0>div.app-2
 }
 
 html:only-child>head+body>div#app-mount.appMount-2yBXZl>div.app-3xd6d0>div.app-2CXKsg>div.layers-OrUESM.layers-1YQhyW>div.layer-86YKbF.baseLayer-W6S8cY+div.layer-86YKbF>div.standardSidebarView-E9Pc3j>div.sidebarRegion-1VBisG>div.sidebarRegionScroller-FXiQOh.thin-31rlnD.scrollerBase-_bVAAt.fade-1R6FHN>nav.sidebar-nqHbhN>div.side-2ur1Qk>div.info-1sUqUG::before {
-	content: "furore#7350" !important;
+	content: "DevilBro" !important;
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
